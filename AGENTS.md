@@ -5,7 +5,7 @@ Build a premium digital editorial executive review for VERBA Medical Center. The
 
 ## Source of truth
 - Read `source/quarterly-report-q1-2026.md` for Q1 2026 facts and management conclusions.
-- Unpack and read `source/presentation-skills-public-pack.zip` before changing the visual product.
+- Read and apply all `SKILL.md` files under `skills/` before changing the visual product.
 - Use the existing published project as the technical and visual starting point, but do not merely replace Q2 text with Q1 text.
 - Use official VERBA MAYR photography from `https://verbamayr.ru/` as the primary image source.
 
